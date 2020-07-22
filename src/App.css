@@ -1,0 +1,19 @@
+.todoListFrame{
+    border: 3px dashed pink;
+    text-align: center;
+    justify-content: center;
+    margin-top: 15em;
+    margin: 4em;
+    position: relative;
+
+}
+
+.TaskFrame{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+.icon{
+    size: 2px;
+}
