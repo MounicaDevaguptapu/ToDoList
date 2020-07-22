@@ -1,6 +1,6 @@
 This project is created to understand basic concepts of ReactJS.
 **Homepage looks like this**
-!(Homepage)[/images/homepage.png]
+![Homepage](/images/homepage.png)
 
 ----------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
